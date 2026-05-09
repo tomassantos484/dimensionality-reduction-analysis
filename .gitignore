@@ -11,4 +11,5 @@ __pycache__/
 *.pyzwzw
 *.pyzwzwz
 .ipynb_checkpoints/
-.vscode/
+.vscode/'
+.gitattributes
